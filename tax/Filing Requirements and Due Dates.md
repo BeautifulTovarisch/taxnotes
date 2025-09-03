@@ -1,3 +1,8 @@
+- [Publication 17](https://www.irs.gov/publications/p17)
+- [Filing Requirements](https://www.irs.gov/publications/p17#en_US_2024_publink1000170407)
+- [Dependent Filing Requirements](https://www.irs.gov/publications/p17#en_US_2024_publink1000170407)
+- [Automatic Filing Requirements](https://www.irs.gov/publications/p17#en_US_2024_publink1000284899)
+
 ## Who must file?
 
 - Citizens and resident Aliens who meet the [[Filing Requirements and Due Dates#Filing Requirements]]
@@ -28,7 +33,7 @@ timeline
 
 ## Filing Requirements
 
-It is generally a good idea to file even if you don't strictly meet the requirements for record-keeping purposes and to receive a refund of any withheld tax. For most taxpayers, the [[Gross Income]] requirements based on [[Filing Status]] are most pertinent, but certain [[Filing Requirements and Due Dates#Special Conditions]] require filing irrespective of income. 
+It is generally a good idea to file even if you don't strictly meet the requirements for record-keeping purposes and to receive a refund of any withheld tax. For most taxpayers, the [[Types of Income#Gross Income]] requirements based on [[Filing Status]] are most pertinent, but certain [[Filing Requirements and Due Dates#Special Conditions]] require filing irrespective of income. 
 
 ### Income Requirements
 

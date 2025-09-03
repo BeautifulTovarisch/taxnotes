@@ -4,66 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fc7db9587b03f2b8",
+        "id": "838a43940a35e05b",
         "type": "tabs",
         "children": [
           {
-            "id": "a7df359cb8ee353a",
+            "id": "f6a60b95f2f10e41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filing Requirements and Due Dates.md",
+                "file": "Individual/Income/Other Income.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Filing Requirements and Due Dates"
+              "title": "Other Income"
             }
           },
           {
-            "id": "879a3beb614aecc7",
+            "id": "d3ea1f9fe4337913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependents.md",
+                "file": "Individual/Income/Other Income.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dependents"
+              "title": "Other Income"
             }
           },
           {
-            "id": "31e61e5b5da8121f",
+            "id": "ff892312ef13d5b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Minimum Tax.md",
+                "file": "Individual/Forms/1040.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alternative Minimum Tax"
-            }
-          },
-          {
-            "id": "71b19c8de9766608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filing Status.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Filing Status"
+              "title": "1040"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,21 +198,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7df359cb8ee353a",
+  "active": "ff892312ef13d5b3",
   "lastOpenFiles": [
-    "Forms/4868.md",
-    "Filing Requirements and Due Dates.md",
-    "Dependents.md",
-    "Forms/1040.md",
-    "Tax Credits.md",
+    "Individual/Forms/1095-A.md",
+    "Individual/Forms/1099.md",
+    "Individual/Forms/Schedules.md",
+    "Individual/Income/Net Operating Loss.md",
+    "Individual/Income/Other Income.md",
+    "Individual/Forms/W-2G.md",
     "Filing Status.md",
-    "Alternative Minimum Tax.md",
-    "Health Savings Accounts.md",
-    "Self-Employment.md",
-    "Gross Income.md",
-    "Forms/1095-A.md",
-    "Forms",
-    "Welcome.md",
-    "Tax"
+    "Individual/Forms/K-1.md",
+    "Charitable Contributions.md",
+    "2025-09-02.md",
+    "Individual/Income/Business Income.md",
+    "Individual/Income/Qualified Business Income.md",
+    "Individual/Income/Dividends.md",
+    "Individual/Income/Injury and Illness Income.md",
+    "Individual/Income/Interest.md",
+    "Individual/Income/Types of Income.md",
+    "Individual/Income/Investment Income.md",
+    "Untitled 1.md",
+    "Individual/Income/Bonds.md",
+    "Child and Dependent Care.md",
+    "Individual/Income",
+    "Individual/Income/Wages and Employee Compensation.md",
+    "Individual/Forms/8853.md",
+    "Individual/Income/Members of the Clergy and Religious Orders.md",
+    "Forms/Schedule D.md",
+    "Individual/Forms/W-2.md",
+    "Individual/Forms/2441.md",
+    "Untitled.base",
+    "Individual/Forms",
+    "Individual"
   ]
 }

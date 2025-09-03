@@ -1,3 +1,0 @@
-## Earned
-
-## Unearned

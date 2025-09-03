@@ -1,0 +1,69 @@
+- Estates and Trusts
+	- May have to pay tax if the beneficiary does not pay for a given item
+	- Beneficiaries of trusts that must distribute all its current income must include their share in taxable income, **even if not actually received**
+	- Losses are **not deductible** by the beneficiary
+	- Will receive a [[Schedules]] with amounts to report on [[Schedules#Schedule E]]
+- Royalties
+	- May receive [[1099#1099-MISC Miscellaneous]] or Schedule K-1
+	- Report on Schedule E unless
+	- the taxpayer is operating as a business, then report on [[Schedules#Schedule C]]
+- Rents (Personal Property)
+	- If related to a business, report on Schedule C otherwise
+	- [[Schedules#Schedule 1]] as "Other Income"
+- Bartering
+	- Must include as income the value of the property or services received
+	- [[1099#1099-B]] if over barter exchange
+	- Generally reported as Profit or Loss on Schedule C
+- Cancelled Debt
+	- Non-Business debts reported on Sch. 1
+	- Business debts on Sch. C (F if farmer)
+	- Should receive a [[1099#1099-C]] if ==$600== or more is forgiven by a **government agency** or **financial institution**
+	- Generally reported except:
+		- Student Loans
+		- Bankruptcy
+		- Qualified farm
+		- Qualified real property business debt
+		- Gifts
+		- Principal Residence Indebtedness
+- Recoveries
+	- A return of an amount deducted or credited in a previous year
+	- Refunds, reimbursements, rebates of itemized deductions on [[Schedules#Schedule A]]
+	- If payment and recovery happen in same year, they "cancel out" and nothing is reported on the return.
+- Unemployment
+	- Taxable as ordinary income
+	- Should receive a [[1099#1099-G]] 
+- Welfare and Public Assistance
+	- **not taxable** if based on **need**
+	- Taxable if compensation or fraudulent
+	- Disaster Relief not taxable if federally declared disaster zone or terrorist act
+- Hobby
+	- Report on Sch. 1
+	- Can only deduct expenses if **itemizing** and only up to the amount of income
+- Alimony
+	- If the divorce was after ==2018==, not taxable (or deductible)
+	- Child support is **never taxed** 
+- Court Awards and Damages
+	- Not taxable if for **physical** injury or illness including **emotional distress** caused by physical injury or illness
+	- Generally taxable otherwise
+- Gambling
+	- Winnings must be included as income (reported on [[W-2G]])
+		- Includes lotteries and raffles
+	- Can only deduct if itemizing and only up to the amount of income
+	- If a **professional gambler** report on Sch. C
+- Scholarships and Fellowships
+	- Not taxable if for tuition and fees
+	- Taxable if for room and board or payment of services
+	- Allowances from the VA are not taxable
+- Miscellaneous
+	- Alaska Permanent Fund Dividend
+	- Bribes
+	- Credit card insurance
+	- Fees for services
+	- Found property (taxed at FMV)
+	- Free tour received for organizing a group of tourists 
+	- Illegal activities
+	- Jury duty
+	- Kickbacks
+	- Prizes and awards
+	- Rewards
+	- Stolen property
